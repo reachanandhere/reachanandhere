@@ -5,7 +5,7 @@ I am a Full Stack developer with 6 years of industry experience having out-of-th
 
 I talk about
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,angular,html,css)](https://skillicons.dev)
 
 <!--
 **reachanandhere/reachanandhere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
